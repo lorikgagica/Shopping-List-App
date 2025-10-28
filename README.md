@@ -30,17 +30,12 @@ A simple Python console application for managing your shopping list—now with i
 
 --- Shopping List Menu ---
 
-View shopping list
-
-Add an item
-
-Remove an item
-
-Modify an item
-
-Clear list
-
-Save and Exit
+1. View shopping list
+2. Add an item
+3. Remove an item
+4. Modify an item
+5. Clear list
+6. Save and Exit
 Enter your choice (1-6): 2
 Enter the item to add: Apples
 Apples has been added to the shopping list.
@@ -49,11 +44,9 @@ Apples has been added to the shopping list.
 
 --- Shopping List ---
 
-Apples
-
-Bananas
-
-Oranges
+1. Apples
+2. Bananas
+3. Oranges
 
 Which item do you want to modify? (Enter number): 2
 Enter the new value for 'Bananas': Pears
